@@ -1,8 +1,8 @@
 # 📝 TodoX
 
-> **Fullstack MERN Learning Project**  
-> uilding a Task Management Application (To-do App) with **React + Node.js + MongoDB + Tailwind CSS v4 + Shadcn**  
-> At the same time, practicing how to **deploy the website** in a real environment.
+**Fullstack MERN Learning Project**  
+Building a Task Management Application (To-do App) with **React + Node.js + MongoDB + Tailwind CSS v4 + Shadcn**  
+At the same time, practicing how to **deploy the website** in a real environment.
 
 ---
 
